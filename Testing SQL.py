@@ -1,3 +1,4 @@
 import sqlite3
-sqlite> .help
-
+sqlite>.tables
+sqlite>.databases
+print(sqlite>.databases)
